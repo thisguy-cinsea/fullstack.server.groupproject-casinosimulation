@@ -1,4 +1,4 @@
-package io.zipcoder.casino;
+package com.github.curriculeon;
 
 
 public class Casino {

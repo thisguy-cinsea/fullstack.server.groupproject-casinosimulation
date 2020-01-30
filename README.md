@@ -1,4 +1,4 @@
-# ZCW-Casino
+# Casino Group Project
 * Objective:
   * To create a casino simulation.
 
@@ -19,7 +19,6 @@
     * Contract which ensures that a game enforces some aspect of _waging money_.
   * `GamblingPlayer` interface
     * Contract which ensures that a player has some ability to _wage money_.
-  * The `utilities.Console` class should NOT be modified. It should be _wrapped_ or encapsulated by other classes.
   
  
 
